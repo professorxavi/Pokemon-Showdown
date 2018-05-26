@@ -3324,7 +3324,7 @@ let BattlePokedex = {
 	quagsire: {
 		num: 195,
 		species: "Quagsire",
-		types: ["Water", "Ground"],
+		types: ["Rock"],
 		baseStats: {hp: 95, atk: 85, def: 85, spa: 65, spd: 65, spe: 35},
 		abilities: {0: "Damp", 1: "Water Absorb", H: "Unaware"},
 		heightm: 1.4,
@@ -4660,7 +4660,7 @@ let BattlePokedex = {
 	slaking: {
 		num: 289,
 		species: "Slaking",
-		types: ["Normal"],
+		types: ["Water", "Steel"],
 		baseStats: {hp: 150, atk: 160, def: 100, spa: 95, spd: 65, spe: 100},
 		abilities: {0: "Truant"},
 		heightm: 2,
@@ -7520,7 +7520,7 @@ let BattlePokedex = {
 	gallade: {
 		num: 475,
 		species: "Gallade",
-		types: ["Psychic", "Fighting"],
+		types: ["Fighting", "Rock"],
 		gender: "M",
 		baseStats: {hp: 68, atk: 125, def: 65, spa: 65, spd: 115, spe: 80},
 		abilities: {0: "Steadfast", H: "Justified"},
@@ -7826,7 +7826,7 @@ let BattlePokedex = {
 	darkrai: {
 		num: 491,
 		species: "Darkrai",
-		types: ["Dark"],
+		types: ["Poison", "Dark"],
 		gender: "N",
 		baseStats: {hp: 70, atk: 90, def: 90, spa: 135, spd: 90, spe: 125},
 		abilities: {0: "Bad Dreams"},
