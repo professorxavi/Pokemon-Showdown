@@ -63,7 +63,7 @@ let BattlePokedex = {
 	charmander: {
 		num: 4,
 		species: "Charmander",
-		types: ["Fire"],
+		types: ["Fighting"],
 		genderRatio: {M: 0.875, F: 0.125},
 		baseStats: {hp: 39, atk: 52, def: 43, spa: 60, spd: 50, spe: 65},
 		abilities: {0: "Blaze", H: "Solar Power"},
@@ -2639,7 +2639,7 @@ let BattlePokedex = {
 	dratini: {
 		num: 147,
 		species: "Dratini",
-		types: ["Dragon"],
+		types: ["Dark", "Ice"],
 		baseStats: {hp: 41, atk: 64, def: 45, spa: 50, spd: 50, spe: 50},
 		abilities: {0: "Shed Skin", H: "Marvel Scale"},
 		heightm: 1.8,
@@ -4228,7 +4228,7 @@ let BattlePokedex = {
 	mudkip: {
 		num: 258,
 		species: "Mudkip",
-		types: ["Water"],
+		types: ["Poison", "Psychic"],
 		genderRatio: {M: 0.875, F: 0.125},
 		baseStats: {hp: 50, atk: 70, def: 50, spa: 50, spd: 50, spe: 40},
 		abilities: {0: "Torrent", H: "Damp"},
@@ -4698,7 +4698,7 @@ let BattlePokedex = {
 	shedinja: {
 		num: 292,
 		species: "Shedinja",
-		types: ["Bug", "Ghost"],
+		types: ["Electric"],
 		gender: "N",
 		baseStats: {hp: 1, atk: 90, def: 45, spa: 30, spd: 30, spe: 40},
 		maxHP: 1,
