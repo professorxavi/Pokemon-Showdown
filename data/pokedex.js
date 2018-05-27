@@ -4831,7 +4831,7 @@ let BattlePokedex = {
 	sableye: {
 		num: 302,
 		species: "Sableye",
-		types: ["Dark", "Ghost"],
+		types: ["Psychic", "Poison"],
 		baseStats: {hp: 50, atk: 75, def: 75, spa: 65, spd: 65, spe: 50},
 		abilities: {0: "Keen Eye", 1: "Stall", H: "Prankster"},
 		heightm: 0.5,
