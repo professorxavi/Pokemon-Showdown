@@ -1566,7 +1566,7 @@ let BattlePokedex = {
 	ponyta: {
 		num: 77,
 		species: "Ponyta",
-		types: ["Fire"],
+		types: ["Electric"],
 		baseStats: {hp: 50, atk: 85, def: 55, spa: 65, spd: 65, spe: 90},
 		abilities: {0: "Run Away", 1: "Flash Fire", H: "Flame Body"},
 		heightm: 1,
@@ -2678,7 +2678,7 @@ let BattlePokedex = {
 	mewtwo: {
 		num: 150,
 		species: "Mewtwo",
-		types: ["Psychic"],
+		types: ["Grass", "Normal"],
 		gender: "N",
 		baseStats: {hp: 106, atk: 110, def: 90, spa: 154, spd: 90, spe: 130},
 		abilities: {0: "Pressure", H: "Unnerve"},
@@ -4076,7 +4076,7 @@ let BattlePokedex = {
 	lugia: {
 		num: 249,
 		species: "Lugia",
-		types: ["Psychic", "Flying"],
+		types: ["Ghost"],
 		gender: "N",
 		baseStats: {hp: 106, atk: 90, def: 130, spa: 90, spd: 154, spe: 110},
 		abilities: {0: "Pressure", H: "Multiscale"},
@@ -4241,7 +4241,7 @@ let BattlePokedex = {
 	marshtomp: {
 		num: 259,
 		species: "Marshtomp",
-		types: ["Water", "Ground"],
+		types: ["Poison", "Psychic"],
 		genderRatio: {M: 0.875, F: 0.125},
 		baseStats: {hp: 70, atk: 85, def: 70, spa: 60, spd: 70, spe: 50},
 		abilities: {0: "Torrent", H: "Damp"},
@@ -4698,7 +4698,7 @@ let BattlePokedex = {
 	shedinja: {
 		num: 292,
 		species: "Shedinja",
-		types: ["Electric"],
+		types: ["Water"],
 		gender: "N",
 		baseStats: {hp: 1, atk: 90, def: 45, spa: 30, spd: 30, spe: 40},
 		maxHP: 1,
