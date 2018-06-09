@@ -2439,7 +2439,7 @@ let BattlePokedex = {
 	eevee: {
 		num: 133,
 		species: "Eevee",
-		types: ["Normal"],
+		types: ["Dragon", "Ice"],
 		genderRatio: {M: 0.875, F: 0.125},
 		baseStats: {hp: 55, atk: 55, def: 50, spa: 45, spd: 65, spe: 55},
 		abilities: {0: "Run Away", 1: "Adaptability", H: "Anticipation"},
@@ -2466,7 +2466,7 @@ let BattlePokedex = {
 	jolteon: {
 		num: 135,
 		species: "Jolteon",
-		types: ["Electric"],
+		types: ["Grass"],
 		genderRatio: {M: 0.875, F: 0.125},
 		baseStats: {hp: 65, atk: 65, def: 60, spa: 110, spd: 95, spe: 130},
 		abilities: {0: "Volt Absorb", H: "Quick Feet"},
@@ -3211,7 +3211,7 @@ let BattlePokedex = {
 	politoed: {
 		num: 186,
 		species: "Politoed",
-		types: ["Water"],
+		types: ["Fire", "Flying"],
 		baseStats: {hp: 90, atk: 75, def: 75, spa: 90, spd: 100, spe: 70},
 		abilities: {0: "Water Absorb", 1: "Damp", H: "Drizzle"},
 		heightm: 1.1,
@@ -3324,7 +3324,7 @@ let BattlePokedex = {
 	quagsire: {
 		num: 195,
 		species: "Quagsire",
-		types: ["Rock"],
+		types: ["Fighting", "Steel"],
 		baseStats: {hp: 95, atk: 85, def: 85, spa: 65, spd: 65, spe: 35},
 		abilities: {0: "Damp", 1: "Water Absorb", H: "Unaware"},
 		heightm: 1.4,
@@ -3403,7 +3403,7 @@ let BattlePokedex = {
 		num: 201,
 		species: "Unown",
 		baseForme: "A",
-		types: ["Psychic"],
+		types: ["Electric", "Ground"],
 		gender: "N",
 		baseStats: {hp: 48, atk: 72, def: 48, spa: 72, spd: 48, spe: 48},
 		abilities: {0: "Levitate"},
@@ -5976,7 +5976,7 @@ let BattlePokedex = {
 	metagross: {
 		num: 376,
 		species: "Metagross",
-		types: ["Steel", "Psychic"],
+		types: ["Ghost", "Fighting"],
 		gender: "N",
 		baseStats: {hp: 80, atk: 135, def: 130, spa: 95, spd: 90, spe: 70},
 		abilities: {0: "Clear Body", H: "Light Metal"},
