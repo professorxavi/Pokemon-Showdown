@@ -2388,7 +2388,7 @@ let BattlePokedex = {
 	gyarados: {
 		num: 130,
 		species: "Gyarados",
-		types: ["Water", "Flying"],
+		types: ["Dragon"],
 		baseStats: {hp: 95, atk: 125, def: 79, spa: 60, spd: 100, spe: 81},
 		abilities: {0: "Intimidate", H: "Moxie"},
 		heightm: 6.5,
@@ -3337,7 +3337,7 @@ let BattlePokedex = {
 	espeon: {
 		num: 196,
 		species: "Espeon",
-		types: ["Psychic"],
+		types: ["Flying"],
 		genderRatio: {M: 0.875, F: 0.125},
 		baseStats: {hp: 65, atk: 65, def: 60, spa: 130, spd: 95, spe: 110},
 		abilities: {0: "Synchronize", H: "Magic Bounce"},
@@ -6042,7 +6042,7 @@ let BattlePokedex = {
 	latias: {
 		num: 380,
 		species: "Latias",
-		types: ["Dragon", "Psychic"],
+		types: ["Grass", "Rock"],
 		gender: "F",
 		baseStats: {hp: 80, atk: 80, def: 90, spa: 110, spd: 130, spe: 110},
 		abilities: {0: "Levitate"},
@@ -6365,7 +6365,7 @@ let BattlePokedex = {
 	empoleon: {
 		num: 395,
 		species: "Empoleon",
-		types: ["Water", "Steel"],
+		types: ["Poison", "Dragon"],
 		genderRatio: {M: 0.875, F: 0.125},
 		baseStats: {hp: 84, atk: 86, def: 88, spa: 111, spd: 101, spe: 60},
 		abilities: {0: "Torrent", H: "Defiant"},
@@ -7043,7 +7043,7 @@ let BattlePokedex = {
 	spiritomb: {
 		num: 442,
 		species: "Spiritomb",
-		types: ["Ghost", "Dark"],
+		types: ["Ghost"],
 		baseStats: {hp: 50, atk: 92, def: 108, spa: 92, spd: 108, spe: 35},
 		abilities: {0: "Pressure", H: "Infiltrator"},
 		heightm: 1,
@@ -7080,7 +7080,7 @@ let BattlePokedex = {
 	garchomp: {
 		num: 445,
 		species: "Garchomp",
-		types: ["Dragon", "Ground"],
+		types: ["Electric"],
 		baseStats: {hp: 108, atk: 130, def: 95, spa: 80, spd: 85, spe: 102},
 		abilities: {0: "Sand Veil", H: "Rough Skin"},
 		heightm: 1.9,
@@ -7868,7 +7868,7 @@ let BattlePokedex = {
 		num: 493,
 		species: "Arceus",
 		baseForme: "Normal",
-		types: ["Normal"],
+		types: ["Water", "Psychic"],
 		gender: "N",
 		baseStats: {hp: 120, atk: 120, def: 120, spa: 120, spd: 120, spe: 120},
 		abilities: {0: "Multitype"},
