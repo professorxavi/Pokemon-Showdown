@@ -149,7 +149,7 @@ let BattlePokedex = {
 	wartortle: {
 		num: 8,
 		species: "Wartortle",
-		types: ["Water"],
+		types: ["Grass"],
 		genderRatio: {M: 0.875, F: 0.125},
 		baseStats: {hp: 59, atk: 63, def: 80, spa: 65, spd: 80, spe: 58},
 		abilities: {0: "Torrent", H: "Rain Dish"},
@@ -3554,7 +3554,7 @@ let BattlePokedex = {
 	scizor: {
 		num: 212,
 		species: "Scizor",
-		types: ["Bug", "Steel"],
+		types: ["Fighting"],
 		baseStats: {hp: 70, atk: 130, def: 100, spa: 55, spd: 80, spe: 65},
 		abilities: {0: "Swarm", 1: "Technician", H: "Light Metal"},
 		heightm: 1.8,
@@ -4198,7 +4198,7 @@ let BattlePokedex = {
 	blaziken: {
 		num: 257,
 		species: "Blaziken",
-		types: ["Fire", "Fighting"],
+		types: ["Electric"],
 		genderRatio: {M: 0.875, F: 0.125},
 		baseStats: {hp: 80, atk: 120, def: 70, spa: 110, spd: 70, spe: 80},
 		abilities: {0: "Blaze", H: "Speed Boost"},
@@ -4542,7 +4542,7 @@ let BattlePokedex = {
 	kirlia: {
 		num: 281,
 		species: "Kirlia",
-		types: ["Psychic", "Fairy"],
+		types: ["Steel", "Fire"],
 		baseStats: {hp: 38, atk: 35, def: 35, spa: 65, spd: 55, spe: 50},
 		abilities: {0: "Synchronize", 1: "Trace", H: "Telepathy"},
 		heightm: 0.8,
@@ -5114,7 +5114,7 @@ let BattlePokedex = {
 	sharpedo: {
 		num: 319,
 		species: "Sharpedo",
-		types: ["Water", "Dark"],
+		types: ["Poison"],
 		baseStats: {hp: 70, atk: 120, def: 40, spa: 95, spd: 40, spe: 95},
 		abilities: {0: "Rough Skin", H: "Speed Boost"},
 		heightm: 1.8,
@@ -7451,7 +7451,7 @@ let BattlePokedex = {
 	leafeon: {
 		num: 470,
 		species: "Leafeon",
-		types: ["Grass"],
+		types: ["Rock"],
 		genderRatio: {M: 0.875, F: 0.125},
 		baseStats: {hp: 65, atk: 110, def: 130, spa: 60, spd: 65, spe: 95},
 		abilities: {0: "Leaf Guard", H: "Chlorophyll"},
